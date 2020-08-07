@@ -1,10 +1,8 @@
-### Ohayo 👋
-
 #### Apps
 [<img align="left" alt="Nafilah" width="55px" src="https://raw.githubusercontent.com/qazwini/qazwini/master/stuff/nafilah.png">][nafilah]
 [<img align="left" alt="Turbah" width="55px" src="https://raw.githubusercontent.com/qazwini/qazwini/master/stuff/turbah.png">][turbah]
 
-<br><br>
+<br/><br/>
 
 #### Languages
 <img align="left" alt="Swift" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/swift/swift-original.svg">
@@ -14,7 +12,7 @@
 <img align="left" alt="HTML" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg">
 <img align="left" alt="CSS" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg">
 
-<br>
+<br/>
 
 #### Contact
 ✉️ mqazwini@umich.edu
