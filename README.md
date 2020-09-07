@@ -1,5 +1,5 @@
 #### Apps
-[<img align="left" alt="Nafilah" width="55px" src="https://raw.githubusercontent.com/qazwini/qazwini/master/stuff/nafilah.png">][nafilah]
+[<img align="left" alt="Nafilah" width="55px" src="https://raw.githubusercontent.com/qazwini/qazwini/master/stuff/nafilahNew.png">][nafilah]
 [<img align="left" alt="Turbah" width="55px" src="https://raw.githubusercontent.com/qazwini/qazwini/master/stuff/turbah.png">][turbah]
 
 <br/><br/>
