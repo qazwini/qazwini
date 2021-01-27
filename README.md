@@ -11,6 +11,7 @@
 <img align="left" alt="Javascript" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg">
 <img align="left" alt="HTML" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg">
 <img align="left" alt="CSS" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg">
+<img align="left" alt="PHP" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/php/php-plain.svg">
 
 <br/>
 
