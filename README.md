@@ -14,7 +14,7 @@
 <img align="left" alt="CSS" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg">
 <img align="left" alt="PHP" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/php/php-plain.svg">
 
-<br>
+<br><br>
 
 #### Contact
 ✉️ mqazwini@umich.edu
