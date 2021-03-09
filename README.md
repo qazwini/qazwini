@@ -7,7 +7,6 @@
 #### Languages
 <img align="left" alt="Swift" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/swift/swift-original.svg">
 <img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/python/python-plain.svg">
-<img align="left" alt="C" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg">
 <img align="left" alt="C++" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg">
 <img align="left" alt="Javascript" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg">
 <img align="left" alt="HTML" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg">
