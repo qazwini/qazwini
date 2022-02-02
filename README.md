@@ -4,7 +4,7 @@
 
 <br><br>
 
-#### Languages
+<!-- #### Languages
 <img align="left" alt="Swift" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/swift/swift-original.svg">
 <img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg">
 <img align="left" alt="C++" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg">
@@ -17,7 +17,7 @@
 <img align="left" alt="R" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/r/r-original.svg">
 
 <br>
-
+ -->
 #### Contact
 ✉️ mqazwini@umich.edu
 
