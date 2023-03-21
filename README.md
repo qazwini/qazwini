@@ -1,6 +1,7 @@
 #### Apps
 [<img align="left" alt="Nafilah" width="55px" src="https://raw.githubusercontent.com/qazwini/qazwini/master/stuff/logoGithub.png">][nafilah]
 [<img align="left" alt="Turbah" width="55px" src="https://raw.githubusercontent.com/qazwini/qazwini/master/stuff/turbah.png">][turbah]
+[<img align="left" alt="VizLens" width="55px" src="https://raw.githubusercontent.com/qazwini/qazwini/master/stuff/smallicon.png">][vizlens]
 
 <br><br>
 
@@ -24,3 +25,4 @@
 
 [nafilah]: https://apps.apple.com/app/id1510691403
 [turbah]: https://apps.apple.com/app/id1523945049
+[vizlens]: https://apps.apple.com/app/id1577855541
